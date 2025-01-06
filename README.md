@@ -6,7 +6,7 @@
 
 Visit [openana.ai](https://openana.ai) to learn more about Ana's capabilities and how she can help with your projects! 🚀
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ana-ml-demo.streamlit.app/) [![Kaggle Dataset](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/datasets/shivan118/healthcare-analytics)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://openana-ml-demo.streamlit.app/) [![Kaggle Dataset](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/datasets/shivan118/healthcare-analytics)
 
 An advanced machine learning application for predicting and analyzing healthcare camp attendance patterns. This project helps MedCamp optimize their healthcare camp resources and improve attendance rates through sophisticated ML predictions and comprehensive insights.
 
@@ -203,7 +203,7 @@ streamlit run app.py
 
 ## 🌟 Live Demo
 
-Experience the application: [Healthcare Camp Predictor](https://ana-ml-demo.streamlit.app/)
+Experience the application: [Healthcare Camp Predictor](https://openana-ml-demo.streamlit.app/)
 
 ### Demo Features
 - Interactive data exploration
@@ -233,4 +233,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Streamlit for the excellent web framework
 
 ---
-Built with ❤️ by [Ana](https://openana.ai) | [Live Demo](https://ana-ml-demo.streamlit.app/)
+Built with ❤️ by [Ana](https://openana.ai) | [Live Demo](https://openana-ml-demo.streamlit.app/)
