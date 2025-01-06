@@ -24,7 +24,7 @@ MedCamp faces two key challenges:
 
 ### Solution Approach
 
-Our application provides:
+My application provides:
 - Predictive analytics for attendance probability
 - Comprehensive data exploration tools
 - Multiple ML model options with explainable AI
